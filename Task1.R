@@ -37,5 +37,4 @@ ggplot(data,aes(x = fits, y = resi)) + geom_point() + geom_hline(yintercept=0)+ 
 #explaining most of the deterministic component. There seems to be only one potential influencial point with 
 #standardized residual value less than -2 showing it's pretty robust. Otherwise, the model is a good one and the 
 #predicted score of 92.91 can we considered quite close to the actual score for 9.25 hours of study.  
-                                                          
-                                                          
+                                                                                                                 
